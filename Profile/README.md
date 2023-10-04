@@ -1,3 +1,4 @@
 # This is our organization
-
-<h1>Hello, </h1>
+<div align = "center"> 
+  <h1>Hello, </h1>
+</div>
